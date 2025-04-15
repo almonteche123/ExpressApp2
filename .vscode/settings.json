@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/db1e622f-8e13-4766-a009-e6fffcabaa6c/resourceGroups/launchdarklytestblackbea/providers/Microsoft.Web/sites/launchdarklytest",
+    "appService.deploySubpath": "."
+}
